@@ -1,0 +1,14 @@
+1) put the two .ks scripts in your scripts folder at C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\Ships\Script
+(or wherever KSP is located on your computer)
+2) make sure to be using the ship in the video, or else it may fail.
+3) Press launch and once it loads open up both of the terminals on the ship.
+4) On the Booster CPU type: runpath("0:/lander.ks").
+5) Hit run, after that you can close the booster cpu terminal.
+6) On the Command Module CPU type: runpath("0:/learn.ks").
+7) Once you hit run it will countdown from 10.
+8) Sit back and watch it run, with PRE (Physics Range Extender) you can run both the landing and the second stage at the same time.
+I used that in the video but its not required.
+
+If there is issues, write an issue and send it and ill see about it.
+
+Made for KSP version 1.8 and 1.9, run at own risk at other versions.
